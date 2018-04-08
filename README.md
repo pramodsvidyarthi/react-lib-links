@@ -10,3 +10,5 @@ https://github.com/timarney/react-app-rewired - A library to override create-rea
 https://github.com/joshwcomeau/react-flip-move - A library for effortlessly animating lists.
 
 https://github.com/bvaughn/react-virtualized - A library for efficiently rendering large lists and tabular data.
+
+https://github.com/transitive-bullshit/create-react-library - A cli for easily creating and publishing modern react libraries.
