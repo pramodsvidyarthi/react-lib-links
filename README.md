@@ -12,3 +12,5 @@ https://github.com/joshwcomeau/react-flip-move - A library for effortlessly anim
 https://github.com/bvaughn/react-virtualized - A library for efficiently rendering large lists and tabular data.
 
 https://github.com/transitive-bullshit/create-react-library - A cli for easily creating and publishing modern react libraries.
+
+https://github.com/bourdakos1/react-magic-dropzone - A lib for dragging and dropping files for uploading.
