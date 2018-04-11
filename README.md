@@ -14,3 +14,5 @@ https://github.com/bvaughn/react-virtualized - A library for efficiently renderi
 https://github.com/transitive-bullshit/create-react-library - A cli for easily creating and publishing modern react libraries.
 
 https://github.com/bourdakos1/react-magic-dropzone - A lib for dragging and dropping files for uploading.
+
+https://github.com/andreypopp/react-textarea-autosize - A textarea component for React which grows with content.
