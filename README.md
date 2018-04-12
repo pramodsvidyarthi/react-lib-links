@@ -16,3 +16,5 @@ https://github.com/transitive-bullshit/create-react-library - A cli for easily c
 https://github.com/bourdakos1/react-magic-dropzone - A lib for dragging and dropping files for uploading.
 
 https://github.com/andreypopp/react-textarea-autosize - A textarea component for React which grows with content.
+
+https://github.com/unsplash/react-trend - A lib to draw simple, elegant spark lines.
