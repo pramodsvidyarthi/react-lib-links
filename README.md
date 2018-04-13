@@ -18,3 +18,5 @@ https://github.com/bourdakos1/react-magic-dropzone - A lib for dragging and drop
 https://github.com/andreypopp/react-textarea-autosize - A textarea component for React which grows with content.
 
 https://github.com/unsplash/react-trend - A lib to draw simple, elegant spark lines.
+
+https://github.com/jaredpalmer/react-fns - Browser API's turned into declarative React components and HoC's .
