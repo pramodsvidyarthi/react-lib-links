@@ -22,3 +22,5 @@ https://github.com/unsplash/react-trend - A lib to draw simple, elegant spark li
 https://github.com/jaredpalmer/react-fns - Browser API's turned into declarative React components and HoC's .
 
 https://github.com/drcmda/react-animated-tree - A tree view control for react.
+
+https://github.com/Popmotion/popmotion/tree/master/packages/react-pose - A react animation library.
