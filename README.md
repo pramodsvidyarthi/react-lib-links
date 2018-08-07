@@ -24,3 +24,5 @@ https://github.com/jaredpalmer/react-fns - Browser API's turned into declarative
 https://github.com/drcmda/react-animated-tree - A tree view control for react.
 
 https://github.com/Popmotion/popmotion/tree/master/packages/react-pose - A react animation library.
+
+https://github.com/react-tools/react-move - Yet another animation library.
