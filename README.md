@@ -28,3 +28,5 @@ https://github.com/Popmotion/popmotion/tree/master/packages/react-pose - A react
 https://github.com/react-tools/react-move - Yet another animation library.
 
 https://github.com/FormidableLabs/spectacle - A Presentation library using react.
+
+https://github.com/FormidableLabs/react-animations -  A library for animations that plays nice with CSS in JS libraries.
