@@ -26,3 +26,5 @@ https://github.com/drcmda/react-animated-tree - A tree view control for react.
 https://github.com/Popmotion/popmotion/tree/master/packages/react-pose - A react animation library.
 
 https://github.com/react-tools/react-move - Yet another animation library.
+
+https://github.com/FormidableLabs/spectacle - A Presentation library using react.
